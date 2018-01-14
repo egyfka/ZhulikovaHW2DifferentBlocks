@@ -1,0 +1,75 @@
+body{
+	font-size: 0;
+}
+div { 
+	display: block;
+	border: 1px solid black; 
+	background: #f2f2f2;
+	height: 100px;
+	margin: 1%;
+	vertical-align: top;
+}
+#b1{ 
+	display: block;
+	width: 98%; 
+} 
+#b2{
+	display: inline-block;
+	height: 380px;
+	width: 20%; 
+} 
+#b3{
+	display: inline-block;
+	height: 380px;
+	width: 53%; 
+} 
+#b4{ 
+	display: inline-block;
+	width: 47%; 
+} 
+#b5{
+	display: inline-block;
+	width: 47%; 
+} 
+#b6{
+	display: block;
+	width: 98%; 
+} 
+#b7{
+	display: block;
+	width: 98%; 
+} 
+#b8 {
+	display: inline-block;
+	height: 380px;
+	width: 20%; 
+} 
+#b9 {
+	display: block;
+	width: 98%; 
+} 
+#b10 {
+	display: block;
+	width: 98%; 
+} 
+#b11 {
+	display: inline-block;
+	width: 47.5%; 
+} 
+#b12 {
+	display: inline-block;
+	width: 47.5%; 
+}
+#b13{
+	width: 98%; 
+} 
+
+.treugolnichek{
+  background:#37c3cd;
+}
+.kruzhochek{
+  background:#ff039e;
+}
+.rombik{
+  background: #fff833;
+}
